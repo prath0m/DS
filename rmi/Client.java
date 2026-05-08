@@ -48,3 +48,12 @@ public class Client {
         sc.close();
     }
 }
+
+
+// javac *.java
+// rmiregistry
+
+// new terminal
+// java AdditionServer
+// new terminal
+// java AdditionClient

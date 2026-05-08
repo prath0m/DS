@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d3efde9-ba20-45ef-b6d6-7c9d7eae2d7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assign1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/rmi/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assign1/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/rmi/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assign1/ServerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rmi/ServerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assign1/ServerIntf.java" beforeDir="false" afterPath="$PROJECT_DIR$/rmi/ServerIntf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/Problem_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/Problem_15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_2/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MPI/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_3/Reverse.idl" beforeDir="false" afterPath="$PROJECT_DIR$/corba/Reverse.idl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_3/ReverseClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/corba/ReverseClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_3/ReverseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/corba/ReverseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEMO_3/ReverseServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/corba/ReverseServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleyMaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleyMaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleyMaster_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleyMaster_18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleyMaster_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleyMaster_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleyMaster_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleyMaster_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleyMaster_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleyMaster_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleySlave.class" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleySlave.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleySlave_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleySlave_18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleySlave_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleySlave_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleySlave_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleySlave_19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_4/BerkeleySlave_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/berkeley/BerkeleySlave_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_5/Process0_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/token/Process0_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_5/Process0_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/token/Process0_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_5/Process1_21.class" beforeDir="false" afterPath="$PROJECT_DIR$/token/Process1_21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_5/Process1_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/token/Process1_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_6/BullyAlgorithmSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bully/BullyAlgorithmSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_6/BullyAlgorithmSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/bully/BullyAlgorithmSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_6/BullyComplexity_26.class" beforeDir="false" afterPath="$PROJECT_DIR$/bully/BullyComplexity_26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo_6/BullyComplexity_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/bully/BullyComplexity_26.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/prathameshkale/Downloads/2 to 6" value="3DMHDBdPu5N9mv4zS5FPNOXvQlT" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="Claude Haiku 4.5" />
+      <entry key="agent-panel" value="Claude Haiku 4.5" />
+    </selectedModels>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "prath0m"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/prath0m/DS.git",
+    "accountId": "76b49161-77ec-492c-bdf9-3c0a0a1adbe9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3DMHDBdPu5N9mv4zS5FPNOXvQlT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BullyComplexity_26.executor": "Run",
+    "Application.Problem_12.executor": "Run",
+    "Application.Process0_21.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/prathameshkale/Downloads/2 to 6/Assign1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assign1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Process0_21">
+    <configuration name="BullyComplexity_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bully.BullyComplexity_26" />
+      <module name="2 to 6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bully.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_12" />
+      <module name="2 to 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Process0_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="token.Process0_21" />
+      <module name="2 to 6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="token.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Process0_21" />
+        <item itemvalue="Application.BullyComplexity_26" />
+        <item itemvalue="Application.Problem_12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28539.33" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28539.33" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d3efde9-ba20-45ef-b6d6-7c9d7eae2d7f" name="Changes" comment="" />
+      <created>1778084896702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778084896702</updated>
+      <workItem from="1778084898047" duration="33318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

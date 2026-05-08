@@ -20,4 +20,10 @@ public interface ServerIntf extends Remote {
 
     public void isequalstring(String str1, String str2) throws RemoteException;
 
+    public double milesToKilometer(double miles) throws RemoteException;
+
+    public double milesToKilometer(double miles) throws RemoteException;
+
+    public long factorial(int n) throws RemoteException;
+
 }

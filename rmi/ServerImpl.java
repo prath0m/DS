@@ -50,4 +50,40 @@ public class ServerImpl extends UnicastRemoteObject implements ServerIntf {
             System.out.println("String is not equal!");
     }
 
+    public double celsiusToFahrenheit(double celsius) throws RemoteException {
+        return (celsius * 9/5) + 32;
+    }
+
+    public double milesToKilometer(double miles) throws RemoteException {
+        return miles * 1.60934;
+    }
+
+    public int vowelsInWord(String word) throws RemoteException {
+        int count = 0;
+        String vowels = "aeiouAEIOU";
+        for (char c : word.toCharArray()) {
+            if (vowels.indexOf(c) != -1) {
+                count++;
+            }
+        }
+        System.out.println("Number of vowels in \"" + word + "\": " + count);
+        return count;
+    }
+
+    public long factorial(int n) throws RemoteException {
+        if (n < 0) {
+            System.out.println("Factorial is not defined for negative numbers");
+            return -1;
+        }
+        if (n == 0 || n == 1) {
+            return 1;
+        }
+        long result = 1;
+        for (int i = 2; i <= n; i++) {
+            result *= i;
+        }
+        System.out.println("Factorial of " + n + " is: " + result);
+        return result;
+    }
+
 }
