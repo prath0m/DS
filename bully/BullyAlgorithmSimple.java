@@ -1,4 +1,4 @@
-package Demo_6;
+package bully;
 import java.util.Arrays;
 public class BullyAlgorithmSimple {
     static int n = 5; // Total processes (ID: 0, 1, 2, 3, 4)

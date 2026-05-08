@@ -1,6 +1,4 @@
-package Assign1;
-
-import Assign1.ServerIntf;
+package rmi;
 
 import java.rmi.*;
 import java.util.Scanner;

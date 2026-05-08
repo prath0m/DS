@@ -1,6 +1,4 @@
-package Assign1;
-
-import Assign1.ServerImpl;
+package rmi;
 
 import java.rmi.*;
 

@@ -1,4 +1,4 @@
-package Demo_6;
+package bully;
 import java.util.Arrays;
 
 public class BullyComplexity_26 {

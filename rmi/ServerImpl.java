@@ -1,4 +1,4 @@
-package Assign1;
+package rmi;
 
 import java.rmi.*;
 import java.rmi.server.*;
